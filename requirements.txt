@@ -1,7 +1,7 @@
 streamlit
 Pillow
 numpy
-opencv-python
+opencv-python-headless
 joblib
 scipy
 matplotlib
