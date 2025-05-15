@@ -299,7 +299,7 @@ def load_my_model():
     """
     Placeholder for loading your pre-trained classification model.
     """
-    model = joblib.load('../models/heartbeat_model.pkl')
+    model = joblib.load('models/heartbeat_model.pkl')
     return model
 
 
