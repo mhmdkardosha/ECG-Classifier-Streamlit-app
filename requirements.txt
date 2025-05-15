@@ -6,3 +6,4 @@ joblib
 scipy
 matplotlib
 scikit-learn
+xgboost
